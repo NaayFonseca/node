@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "modulo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaayFonseca/node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaayFonseca/node/issues"
+  },
+  "homepage": "https://github.com/NaayFonseca/node#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
